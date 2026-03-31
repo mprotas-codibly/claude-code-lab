@@ -1,0 +1,50 @@
+state_code,state_name,sunlight_percentage
+AL,Alabama,59
+AK,Alaska,31
+AZ,Arizona,85
+AR,Arkansas,62
+CA,California,73
+CO,Colorado,71
+CT,Connecticut,54
+DE,Delaware,57
+FL,Florida,72
+GA,Georgia,63
+HI,Hawaii,71
+ID,Idaho,58
+IL,Illinois,55
+IN,Indiana,53
+IA,Iowa,57
+KS,Kansas,67
+KY,Kentucky,55
+LA,Louisiana,60
+ME,Maine,49
+MD,Maryland,57
+MA,Massachusetts,52
+MI,Michigan,47
+MN,Minnesota,52
+MS,Mississippi,62
+MO,Missouri,59
+MT,Montana,56
+NE,Nebraska,64
+NV,Nevada,84
+NH,New Hampshire,51
+NJ,New Jersey,56
+NM,New Mexico,83
+NC,North Carolina,61
+ND,North Dakota,56
+OH,Ohio,49
+OK,Oklahoma,68
+OR,Oregon,44
+PA,Pennsylvania,50
+RI,Rhode Island,53
+SC,South Carolina,64
+SD,South Dakota,60
+TN,Tennessee,58
+TX,Texas,70
+UT,Utah,79
+VT,Vermont,48
+VA,Virginia,58
+WA,Washington,40
+WV,West Virginia,48
+WI,Wisconsin,50
+WY,Wyoming,69
