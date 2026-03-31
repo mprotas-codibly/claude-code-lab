@@ -1,0 +1,51 @@
+state_code,state_name,electricity_price_cents_per_kwh
+AL,Alabama,12.4
+AK,Alaska,24.1
+AZ,Arizona,13.2
+AR,Arkansas,11.8
+CA,California,28.5
+CO,Colorado,13.9
+CT,Connecticut,26.3
+DE,Delaware,14.1
+FL,Florida,13.6
+GA,Georgia,12.9
+HI,Hawaii,43.2
+ID,Idaho,10.2
+IL,Illinois,14.8
+IN,Indiana,13.1
+IA,Iowa,12.3
+KS,Kansas,13.0
+KY,Kentucky,11.2
+LA,Louisiana,10.9
+ME,Maine,22.4
+MD,Maryland,15.3
+MA,Massachusetts,25.7
+MI,Michigan,17.2
+MN,Minnesota,14.6
+MS,Mississippi,11.5
+MO,Missouri,12.7
+MT,Montana,11.4
+NE,Nebraska,11.9
+NV,Nevada,13.8
+NH,New Hampshire,23.1
+NJ,New Jersey,17.6
+NM,New Mexico,13.5
+NY,New York,21.9
+NC,North Carolina,12.8
+ND,North Dakota,10.6
+OH,Ohio,13.4
+OK,Oklahoma,11.3
+OR,Oregon,11.7
+PA,Pennsylvania,15.1
+RI,Rhode Island,24.8
+SC,South Carolina,13.0
+SD,South Dakota,11.6
+TN,Tennessee,11.8
+TX,Texas,12.5
+UT,Utah,11.0
+VT,Vermont,20.3
+VA,Virginia,13.7
+WA,Washington,10.4
+WV,West Virginia,12.1
+WI,Wisconsin,16.3
+WY,Wyoming,10.8
