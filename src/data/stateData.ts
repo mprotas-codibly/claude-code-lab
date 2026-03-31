@@ -1,4 +1,4 @@
-import { StateData } from '../types';
+import type { StateData } from '../types';
 
 // Mock data based on approximate real-world values:
 // - Solar irradiance: NREL Solar Resource Data
